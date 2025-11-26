@@ -14,17 +14,18 @@
 #include "targetver.h"
 
 
-#include "ConfigManager.h"
-extern ConfigManager* cfg;
+/*#include "ConfigManager.h"
+extern ConfigManager* cfg;*/
 
 /*
 static const char* DSN = "nwsm";
 static const char* UID = "pantea";
 static const char* PWD = "luft56";*/
 
-/*
+
 static const char* DSN = "soma";
 static const char* UID = "soma";
-static const char* PWD = "soma";*/
+static const char* PWD = "soma";
 
 // TODO: reference additional headers your program requires here
+
